@@ -55,7 +55,7 @@
     "directory-search": "0.0.32",
     "express": "^4.13.3",
     "lodash": "^3.10.1",
-    "swagger-express-middleware": ">=1.0.0-alpha.12",
+    "swagger-express-middleware": "git+https://git@github.com/pianomedia/swagger-express-middleware.git#207a9a7666de403e1907a7ea0132a6bf93cbd8b2",
     "swagger-methods": "^1.0.0"
   }
 }
